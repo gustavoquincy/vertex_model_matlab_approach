@@ -1,0 +1,1 @@
+function [simplex, vertex] = update_location(simplex, verte
